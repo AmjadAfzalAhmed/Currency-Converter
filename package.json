@@ -1,0 +1,22 @@
+{
+  "name": "@amjad_bhutto/currency-converter",
+  "version": "1.0.0",
+  "description": "A currency converter based on CLI",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amjad",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3"
+  }
+}
