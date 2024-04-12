@@ -1,6 +1,6 @@
 {
   "name": "@amjad_bhutto/currency-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A currency converter based on CLI",
   "main": "index.js",
   "type": "module",
@@ -14,6 +14,7 @@
   "author": "Amjad",
   "license": "ISC",
   "dependencies": {
+    "@amjad_bhutto/currency-converter": "^1.0.1",
     "chalk-animation": "^2.0.3"
   },
   "devDependencies": {

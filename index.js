@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer"; //imported inqurier package from npm
 import chalk from "chalk"; //imported chalk package from npm
 import chalkAnimation from "chalk-animation";
